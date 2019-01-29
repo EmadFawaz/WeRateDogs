@@ -1,7 +1,9 @@
-# WeRateDogs
+# Data Wrangling SOP with WeRateDogs website
 # Data Wrangling Project with Udacity
 
 ## Introduction
+This is a data wrangling project aiming at providing a standardized reference for my data wrangling procedure. I am aiming here to provide structure and enhancing code readability for my future efforts in data wrangling.
+
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. As it might be obvious, because "they're good dogs." WeRateDogs has over 4 million followers and has received international media coverage.
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively to be used in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
